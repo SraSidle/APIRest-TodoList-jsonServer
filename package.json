@@ -1,0 +1,22 @@
+{
+  "name": "apirest-todolist-jsonserver",
+  "version": "1.0.0",
+  "description": "Api fake para aplicação React To do List",
+  "main": "index.js",
+  "scripts": {
+  "start": "node server.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SraSidle/APIRest-TodoList-jsonServer.git"
+  },
+  "author": "Bianca Aguiar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SraSidle/APIRest-TodoList-jsonServer/issues"
+  },
+  "homepage": "https://github.com/SraSidle/APIRest-TodoList-jsonServer#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
