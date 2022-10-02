@@ -103,5 +103,109 @@
       "texto": "Pra quê tantos códigos, se as melhores coisas da vida, não são programadas?",
       "usuarioId": 1
     }
+  ],
+  "Games" : [
+    {
+      "id": "1",
+      "name": "Free Fire",
+      "description": "Jogo que só tem criança chata que só sabe xingar",
+      "image": "https://dementau.files.wordpress.com/2018/02/4545-free-fire-battlegrounds.jpg",
+      "genre": "Ação",
+     " favorite": false
+    },
+    {
+      "id": "2",
+      "name": "Candy Crush Saga",
+      "description": "O jogo de desafio mais gostoso! Combine e estoure doces para passar de nível",
+      "image": "https://th.bing.com/th/id/R.4d25c72f186e0b3c0052245da0d192ae?rik=FgLuCkGUX56zvQ&pid=ImgRaw&r=0",
+      "genre": "Puzzles",
+      " favorite": false
+    },
+    {
+      "id": "3",
+      "name": "FIFA 19",
+      "description": "Uma nova experiência de modo do Jogo Rápido e uma variedade de novos recursos de jogabilidade.",
+      "image": "https://i.ytimg.com/vi/gz_9DLZJNbM/maxresdefault.jpg",
+      "genre": "Emulação",
+      " favorite": false
+    },
+    {
+      "id": "4",
+      "name": "Legend of Zelda",
+      "description": "Entre em um mundo de descobertas, exploração e aventura em The Legend of Zelda.",
+      "image": "https://th.bing.com/th/id/R.7e808951715b6e4d9303b176f47da648?rik=fy1hP4jHOj2DUg&pid=ImgRaw&r=0",
+      "genre": "Aventura",
+      " favorite": false
+    },
+    {
+      "id": "5",
+      "name": "StarCraft",
+      "description": "Declare guerra pela galáxia no controle de três raças singulares. StarCraft II é um jogo de estratégia em tempo real da Blizzard Entertainment para PC e Mac.",
+      "image": "https://th.bing.com/th/id/OIP.XPHh_BEWdy_lEvcPyF8cZgHaEK?pid=ImgDet&rs=1",
+      "genre": "Estratégia",
+      " favorite": false
+    },
+    {
+      "id": "6",
+      "name": "Sudoku",
+      "description": " Su Doku é um jogo baseado na colocação lógica de números. O objetivo do jogo é a colocação de números de 1 a 9 em cada uma das células vazias numa grade de 9x9",
+      "image": "https://th.bing.com/th/id/R.7aa387d90bc247940c552d0d591bf2a2?rik=WTb0Mpez69rTow&pid=ImgRaw&r=0",
+      "genre": "Puzzles",
+      " favorite": false
+    },
+    {
+      "id": "7",
+      "name": "Flight Simulador",
+      "description": " De aeronaves pequenas a grandes jatos, pilote aeronaves altamente detalhadas e deslumbrantes em um mundo incrivelmente realista.",
+      "image": "https://th.bing.com/th/id/OIP.idgHOhG_ifrBv_Ope-waEAHaEK?pid=ImgDet&rs=1",
+      "genre": "Simulação",
+      " favorite": false
+    }
+  ],
+  "RegisteredUser" : [
+  { 
+    " id": "1",
+    "fullname": "Bianca Aguiar",
+    "surname": "Sra_Sidle",
+    " password": "12345678",
+    "favoritesGames": [
+      {
+        "GamesId": [1, 6]
+      }
+    ]
+   }
+  ],
+  "Genre": [
+    {
+      "id": "1",
+      "genreName": "Ação",
+      "GamesId": [1, 2]
+    },
+    {
+      "id": "2",
+      "genreName": "Aventura",
+      "GamesId": [4]
+    },
+    {
+      "id": "3",
+      "genreName": "Estratégia",
+      "GamesId": [5]
+    },
+    {
+      "id": "4",
+      "genreName": "Emulação",
+      "GamesId": [3]
+    },
+    {
+      "id": "5",
+      "genreName": "Pluzzles",
+      "GamesId": [2, 6]
+    },
+    {
+      "id": "6",
+      "genreName": "Simulação",
+      "GamesId": [7]
+    }
   ]
+ 
 }
