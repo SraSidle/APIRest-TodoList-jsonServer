@@ -104,7 +104,7 @@
       "usuarioId": 1
     }
   ],
-  "Games" : [
+  "games" : [
     {
       "id": "1",
       "name": "Free Fire",
@@ -162,7 +162,7 @@
       " favorite": false
     }
   ],
-  "RegisteredUser" : [
+  "registeredUser" : [
   { 
     " id": "1",
     "fullname": "Bianca Aguiar",
@@ -175,7 +175,7 @@
     ]
    }
   ],
-  "Genre": [
+  "genre": [
     {
       "id": "1",
       "genreName": "Ação",
