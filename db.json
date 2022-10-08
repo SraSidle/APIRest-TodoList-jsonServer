@@ -160,6 +160,38 @@
       "image": "https://th.bing.com/th/id/OIP.idgHOhG_ifrBv_Ope-waEAHaEK?pid=ImgDet&rs=1",
       "genre": "Simulação",
       " favorite": false
+    },
+    {
+      "id":"8",
+      "name": "Call of Duty",
+      "description": "Call of Duty é uma série de jogos eletrônicos de guerra, ação e tiro em primeira pessoa publicado pela Activision e desenvolvida pela Infinity Ward.",
+      "image": "https://th.bing.com/th/id/OIP.RP27dW8D6p7FuHWUT6CBvgHaEo?pid=ImgDet&rs=1",
+      "genre": "Ação",
+      "favorite": false
+    }, 
+    {
+      "id":"9",
+      "name": "Space Legends",
+      "description": "Presos em um planeta distante onde o futuro, o passado e o presente se interligam, Elizabeth e Steve estão em sério perigo! Mergulhe em um novo e misterioso mundo de aventura enquanto viaja para as partes mais remotas do universo.",
+      "image": "https://th.bing.com/th/id/OIP.dK6DZcKx-B4D-1zPRMm9OwHaEo?pid=ImgDet&rs=1",
+      "genre": "Aventura",
+      "favorite": false
+    },
+    {
+      "id":"10",
+      "name": "Grand War",
+      "description": "é um jogo de estratégia bélico, viciante, que combina perfeitamente o sistema baseado em turnos de outros grandes jogos do gênero, como Civilization, com o gerenciamento de suas tropas, como visto nos fantásticos Comandos ou Jagged Alliance.",
+      "image": "https://th.bing.com/th/id/OIP.u1MdIG24fTHT_u9MxT5jwwHaEK?pid=ImgDet&rs=1",
+      "genre": "Estratégia",
+      "favorite": false
+    },
+    {
+      "id":"11",
+      "name": "The Sims",
+      "description": "Jogo no qual se simula a vida de uma ou mais pessoas de uma família e as suas actividades sociais na sua vizinhança imediata.",
+      "image": "https://th.bing.com/th/id/R.07794be8b84ea97e70b2c7d0e989944e?rik=kDL8IaEkWakKKw&pid=ImgRaw&r=0",
+      "genre": "Simulação",
+      "favorite": false
     }
   ],
   "registeredUser" : [
@@ -179,7 +211,7 @@
     {
       "id": "1",
       "genreName": "Ação",
-      "GamesId": [1, 2]
+      "GamesId": [1, 2, 8]
     },
     {
       "id": "2",
